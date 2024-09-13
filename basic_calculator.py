@@ -1,16 +1,16 @@
 def add(x, y):
     answer = x + y
-    print(f"{x} + {y} = {answer} " '\n')
+    print(f"{x} + {y} = {answer} " "\n")
 
 
 def substraction(x, y):
     answer = x - y
-    print(f"{x} - {y} = {answer}" '\n')
+    print(f"{x} - {y} = {answer}" "\n")
 
 
 def multiply(x, y):
     answer = x * y
-    print(f"{x} * {y} = {answer}" '\n')
+    print(f"{x} * {y} = {answer}" "\n")
 
 
 def floor_division(x, y):
